@@ -1,0 +1,1 @@
+korn_dir = r'C:\Users\User\PycharmProjects\pythonProject1\korn'
